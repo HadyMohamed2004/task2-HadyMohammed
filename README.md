@@ -263,16 +263,6 @@ The single misclassification is a **Virginica** sample predicted as **Versicolor
 
 ---
 
-## 🛣️ What's Next
-
-| Project | Topic |
-|---|---|
-| ✅ Project 1 | Rule-Based AI Chatbot |
-| ✅ Project 2 | Machine Learning — KNN Classification ← *You are here* |
-| ⬜ Project 3 | Deep Learning — Neural Networks |
-| ⬜ Project 4 | NLP — Language Understanding |
-
----
 
 ## 🏷️ Tech Stack
 
